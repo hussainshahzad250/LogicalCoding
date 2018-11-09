@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: shahzad.hussain
+Build-Jdk: 10.0.1
+Implementation-Title: petclinic
+Implementation-Version: 1.5.1
+Implementation-Vendor-Id: org.springframework.samples
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-petcl
+ inic/
+Created-By: Maven Integration for Eclipse
+
